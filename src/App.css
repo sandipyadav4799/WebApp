@@ -1,0 +1,8 @@
+.main-wrapper {
+  background-color: lightblue;
+  min-height: 100vh;
+}
+.nav_bg,
+.navbar {
+  background-color: rgb(173, 230, 176);
+}
